@@ -1,0 +1,169 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.blog{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+header{
+    width: 1273px;
+    height: 70px;
+    background: #272C3D;
+
+}
+
+nav a{
+    width: 154.03px;
+    height: 29px;
+    font-weight: 400;
+    font-size: 20px;
+    text-decoration: none;
+    color: white;
+    font-family: Quantico;
+}
+
+.cls{
+    display: flex;
+    align-items: center;
+    margin-top: 20px;
+}
+
+.cls a:hover{
+    color: #FF9C28;
+
+}
+
+select{
+    width: 165.49px;
+    height: 30px;
+    background-color: black;
+    color: white;
+    padding-left: 10px;
+    font-family: Quantico;
+    margin-top: 20px;
+}
+
+input{
+    width: 241.87px;
+    height: 30px;   
+    margin-top: 20px;
+}
+
+.bp {
+   background-image: url(./Bg.png);
+   width: 1512px;
+   height: 554px;
+   background-repeat: no-repeat;
+}
+
+body{
+    margin-left: 100px;
+    background-color: black;
+}
+
+.bp2 h1{
+    text-align: center;
+    font-family: Quantico;
+    color: white;
+}
+
+
+
+.bp2{
+    background: #000000;
+    
+}
+
+.bp2 img{
+    margin-left: 50px;
+}
+
+.bp3{
+    background: #1B1E27;  
+    width: 1189px;
+    height: 993px;
+}
+
+
+.big{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 100px;
+    margin-left: 50px;
+    gap: 100px;
+}
+
+
+.bp3 h2{
+    padding-top: 50px;
+    padding-left: 200px;
+    color: white;   
+    font-family: Quantico;
+
+}
+
+.big p{
+    width: 323px;
+    font-family: Quantico;
+    color: white;
+
+}
+
+.big3{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        margin-top: 100px;
+        margin-left: 50px;
+        gap: 100px;
+}
+
+.big3 img{
+    margin-left: 10px;
+}
+
+.big3 p{
+    width: 323px;
+    font-family: Quantico;
+    color: white;
+}
+
+.bp5{
+    width: 1189px;
+    height: 928px;
+}
+
+footer{
+    background: #272C3D;
+    margin-top: 350px;
+    width: 1190px;
+    height: 70px;
+}
+
+.max{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.max a{
+    width: 147.67px;
+    height: 29px;
+    gap: 20px;
+    padding-right: 50px;
+}
+
+
+.max img{
+    margin-left: 50px;
+
+}
+
+.max a:hover{
+    color: #FF9C28;
+}
